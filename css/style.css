@@ -1,0 +1,22 @@
+.canvas-container{
+    position: absolute !important;
+    top:0px;
+    left:0px;
+    z-index: -1;
+}
+
+.rangeTxt{
+    position: absolute;
+    top:0px;
+    z-index: 1;
+}
+
+#rangeStart{
+    left:0px;
+}
+#rangeMid{
+    left:50%;
+}
+#rangeEnd{
+    right:0px;
+}
